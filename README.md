@@ -17,11 +17,6 @@
   <img align="center" alt="Dari-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Dari-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Dari-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-</div>
-
-### Ferramentas e linguagens em aprendizado:
-<div style="display: inline_block">
   <img align="center" alt="Dari-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Dari-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
