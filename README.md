@@ -39,7 +39,7 @@
 
 </div>
 
-### Índice
+### Index
 
 - [English](#english)
 - [Português](#portuguese)
