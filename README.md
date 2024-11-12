@@ -48,8 +48,8 @@
 
 ### About My Journey:
 
-During my course at the Federal University of Santa Catarina (UFSC), I participated in several projects developing web systems. Also, during this period, I had the opportunity to start an internship, which lasted 2 years, working with a senior Software Analyst at the university itself. Currently, I am interning at Protect Solutions, a company located in Criciúma that has been standing out in the data security field.
-These experiences have greatly contributed to my professional growth, and I hope to continue growing in this field.
+During my course at the Federal University of Santa Catarina (UFSC), I participated in several projects developing web systems. Also, during this period, I had the opportunity to start an internship, which lasted 2 years, working with a senior Software Analyst at the university itself. Currently, I am interning at Protect Solutions, a company located in Criciúma that has been standing out in the data security area.
+These experiences have greatly contributed to my professional growth, and I expect to continue growing in this area.
 
 ### Public Projects Completed:
 
