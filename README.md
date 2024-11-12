@@ -1,4 +1,4 @@
-## Dariel Arian Acosta Campos | UFSC | Engenharia de Computação | Web-Dev
+## Dariel Arian Acosta Campos | UFSC 🎓 | Computer Engineering 💻 | Web-Dev
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariel26&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dariel26&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
@@ -67,7 +67,7 @@ These experiences have greatly contributed to my professional growth, and I expe
 
 ### Sobre minha trajetória:
 
-Durante meu curso na Universidade Federal de Santa Catarina participei de alguns projetos desenvolvendo sistemas webs. Também, durante esse período, tive a oportunidade de começar um estágio, o qual durou 2 anos, junto a um grande Analista de Software da própria Universidade. Atualmente estou estágiando para a Protect Solutions, uma empresa situada em Criciuma a qual vem se destacando na área de segurança de dados.
+Durante meu curso na Universidade Federal de Santa Catarina participei de alguns projetos desenvolvendo sistemas webs. Também, durante esse período, tive a oportunidade de começar um estágio, o qual durou 2 anos, junto a um Analista de Software Senior da própria Universidade. Atualmente estou estágiando para a Protect Solutions, uma empresa situada em Criciuma a qual vem se destacando na área de segurança de dados.
 Essas experiências tem contribuido em muito meu crescimento profissional e espero continuar crescendo nessa área.
 
 ### Projetos públicos realizados:
